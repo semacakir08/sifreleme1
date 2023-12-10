@@ -18,7 +18,7 @@ sağlar.(sezar şifreleme algoritması)
 
 
 
-#include <stdio.h>
+	#include <stdio.h>
 	#include <stdlib.h>
 	#include<string.h>
 	#include<locale.h>
